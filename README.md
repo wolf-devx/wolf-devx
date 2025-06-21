@@ -15,7 +15,8 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 ## ⚙️ Tech Stack
 
 - **Front-End:**
-  <i class="devicon-react-original colored"></i> , Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  , Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
 - **Back-End:**
   Java, PHP, MySQL
 - **Game Dev:**
