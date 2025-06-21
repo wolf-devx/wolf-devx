@@ -15,16 +15,62 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 ## ⚙️ Linguagens e Tecnologias
 
 - **Front-End:**
-
+  
   <img 
     align= "left"
-    alt= "REACT"
-    title= "REACT"
+    alt= "React"
+    title= "React"
     width= "30px"
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
-  Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
+  
+  <img 
+    align= "left"
+    alt= "Next.js"
+    title= "Next.js"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Tailwind"
+    title= "Tailwind"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "HTML"
+    title= "HTML"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+        
+  <img 
+    align= "left"
+    alt= "CSS"
+    title= "CSS"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "JavaScript"
+    title= "JavaScript"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+          
+  , TypeScript
 - **Back-End:**
   Java, PHP, MySQL
 - **Game Dev:**
