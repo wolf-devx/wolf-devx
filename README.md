@@ -88,8 +88,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-
-  
+##
 - **Back-End:**
   
   <img 
