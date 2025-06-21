@@ -271,6 +271,6 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
 &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/jos%C3%A9-edimilson-8b5301275/)
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>](https://www.instagram.com/SEU_USERNAME/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>](https://www.instagram.com/wolfdev.devx/)
 
 ---
