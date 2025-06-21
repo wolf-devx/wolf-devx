@@ -88,13 +88,76 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-          
+
+  
 - **Back-End:**
-  Java, PHP, MySQL, springboot, apache, node.js
+  
+  <img 
+    align= "left"
+    alt= "PHP"
+    title= "PHP"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+  />
+
+  <img 
+    align= "left"
+    alt= "Java"
+    title= "Java"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Python"
+    title= "Python"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />  
+  
+  <img 
+    align= "left"
+    alt= "Node.js"
+    title= "Node.js"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Apache"
+    title= "Apache"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" 
+  />
+
+  <img 
+    align= "left"
+    alt= "MySQL"
+    title= "MySQL"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Spring Boot"
+    title= "Spring Boot"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  
 - **Game Dev:**
   Unity, C#
 - **Outros:**
-  postman, Git, Figma, Canva
+  postman, Git, Figma, Canva, Visual Studio, intellij IDEA
 
 ---
 
