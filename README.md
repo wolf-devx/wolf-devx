@@ -12,10 +12,17 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Linguagens e Tecnologias
 
 - **Front-End:**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img 
+    align= "left"
+    alt= "REACT"
+    title= "REACT"
+    width= "30px"
+    style= "padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  />
   , Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
 - **Back-End:**
   Java, PHP, MySQL
