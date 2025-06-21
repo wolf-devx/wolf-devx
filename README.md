@@ -272,3 +272,12 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-devx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <p/>
+
+<br/>
+<br/>
+
+###  Contato
+
+-  E-mail: [wolfdev.dev@gmail.com](mailto:wolfdev.dev@gmail.com)  
+-  LinkedIn: [José Edimilson](https://www.linkedin.com/in/jos%C3%A9-edimilson-8b5301275/)  
+-  GitHub: [github.com/Ruansunshine](https://github.com/Ruansunshine)
