@@ -14,10 +14,10 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 
 ## ⚙️ Tech Stack
 
-- **Front-End:** React, Next.js, Tailwind, HTML, CSS, JavaScript
-- **Back-End:** Node.js, Express, PostgreSQL, MongoDB
+- **Front-End:** React, Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
+- **Back-End:** Java, PHP, MySQL
 - **Game Dev:** Unity, C#
-- **Outros:** Git, Figma, OBS Studio, Veadotube, Canva
+- **Outros:** Git, Figma, Canva
 
 ---
 
@@ -29,7 +29,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 
 ## 📫 Contato
 
-- 📧 Email: [seu-email-aqui@email.com](mailto:seu-email-aqui@email.com)
-- 🌐 LinkedIn: [linkedin.com/in/wolfdev](https://linkedin.com/in/wolfdev)
+- 📧 Email: [wolfdev.dev@gmail.com](mailto:wolfdev.dev@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/wolfdev](https://linkedin.com/in/josé-edimilson-8b5301275/)
 
 ---
