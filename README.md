@@ -21,7 +21,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "React"
     title= "React"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
   
@@ -30,7 +30,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "Next.js"
     title= "Next.js"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
   />
   
@@ -39,7 +39,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "Tailwind"
     title= "Tailwind"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
   />
   
@@ -48,7 +48,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "HTML"
     title= "HTML"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
         
@@ -57,7 +57,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "CSS"
     title= "CSS"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   
@@ -66,17 +66,35 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     alt= "JavaScript"
     title= "JavaScript"
     width= "30px"
-    style= "padding-rigth: 10px;"
+    style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
+  
+  <img 
+    align= "left"
+    alt= "TypeScript"
+    title= "TypeScript"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+
+  
+  <img 
+    align= "left"
+    alt= "Bootstrap"
+    title= "Bootstrap"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  />
           
-  , TypeScript
 - **Back-End:**
-  Java, PHP, MySQL
+  Java, PHP, MySQL, springboot, apache, node.js
 - **Game Dev:**
   Unity, C#
 - **Outros:**
-  Git, Figma, Canva
+  postman, Git, Figma, Canva
 
 ---
 
