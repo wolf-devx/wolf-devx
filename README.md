@@ -257,7 +257,9 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
 <br/>
 
 ### 📈 Estatísticas do GitHub
+
 <p>
+  
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -265,19 +267,24 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="147" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-devx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 <p/>
 
 <br/>
 <br/>
+<br/>
+<br/>
+
+---
 
 ###  Contato
 
 -  E-mail: [wolfdev.dev@gmail.com](mailto:wolfdev.dev@gmail.com)  
--  LinkedIn: [José Edimilson](https://www.linkedin.com/in/jos%C3%A9-edimilson-8b5301275/)  
--  GitHub: [github.com/Ruansunshine](https://github.com/Ruansunshine)
+-  LinkedIn: [José Edimilson](https://www.linkedin.com/in/jos%C3%A9-edimilson-8b5301275/)
