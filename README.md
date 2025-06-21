@@ -99,7 +99,8 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
 
-### ㅤ
+<br/>
+<br/>
   
 ### Back-End:
   
@@ -166,7 +167,8 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
   />
 
-### ㅤ
+<br/>
+<br/>
 
 ### Game Dev:
 
@@ -196,8 +198,9 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
   />
-                 
-### ㅤ
+
+<br/>
+<br/>
 
 ### Ouras Ferramentas:
   
@@ -264,12 +267,28 @@ Atualmente aberto a freelance projects, collaborations e full-time opportunities
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
   />
 
-### ㅤ
-
----
+<br/>
+<br/>
 
 ### 📈 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lwolf-devx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=tokyonight)
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-devx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+<p/>
+
+<br/>
+<br/>
 
 ---
