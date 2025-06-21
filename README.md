@@ -14,10 +14,14 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 
 ## ⚙️ Tech Stack
 
-- **Front-End:** React, Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
-- **Back-End:** Java, PHP, MySQL
-- **Game Dev:** Unity, C#
-- **Outros:** Git, Figma, Canva
+- **Front-End:**
+  <i class="devicon-react-original colored"></i> , Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
+- **Back-End:**
+  Java, PHP, MySQL
+- **Game Dev:**
+  Unity, C#
+- **Outros:**
+  Git, Figma, Canva
 
 ---
 
