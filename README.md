@@ -15,6 +15,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 ## ⚙️ Linguagens e Tecnologias
 
 - **Front-End:**
+
   <img 
     align= "left"
     alt= "REACT"
@@ -23,7 +24,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     style= "padding-rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
-  , Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
+  Next.js, Tailwind, HTML, CSS, JavaScript, Typescript
 - **Back-End:**
   Java, PHP, MySQL
 - **Game Dev:**
