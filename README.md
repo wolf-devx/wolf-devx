@@ -8,7 +8,7 @@
 
 Sou desenvolvedor full stack apaixonado por criar soluções digitais funcionais e escaláveis. Trabalho com web apps modernos, prototipagem de jogos indie.
 
-Atualmente aberto a freelas, collabs e oportunidades fixas.
+Atualmente aberto a freelance projects, collaborations e full-time opportunities.
 
 ---
 
