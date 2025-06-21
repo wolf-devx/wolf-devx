@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor full stack apaixonado por criar soluções digitais funcionais e escaláveis. Trabalho com web apps modernos, prototipagem de jogos indie e pequenos projetos SaaS.
+Sou desenvolvedor full stack apaixonado por criar soluções digitais funcionais e escaláveis. Trabalho com web apps modernos, prototipagem de jogos indie.
 
 Atualmente aberto a freelas, collabs e oportunidades fixas.
 
@@ -14,7 +14,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
 
 ## ⚙️ Linguagens e Tecnologias
 
-- **Front-End:**
+### Front-End:
   
   <img 
     align= "left"
@@ -88,8 +88,10 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-##
-- **Back-End:**
+
+### ㅤ
+  
+### Back-End:
   
   <img 
     align= "left"
@@ -124,7 +126,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     title= "Node.js"
     width= "30px"
     style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
   />
   
   <img 
@@ -133,7 +135,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     title= "Apache"
     width= "30px"
     style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
   />
 
   <img 
@@ -142,7 +144,7 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     title= "MySQL"
     width= "30px"
     style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
   />
   
   <img 
@@ -151,22 +153,118 @@ Atualmente aberto a freelas, collabs e oportunidades fixas.
     title= "Spring Boot"
     width= "30px"
     style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+  />
+
+### ㅤ
+
+### Game Dev:
+
+  <img 
+    align= "left"
+    alt= "Unity"
+    title= "Unity"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+  />
+    
+  <img 
+    align= "left"
+    alt= "C#"
+    title= "C#"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+  />
   
-- **Game Dev:**
-  Unity, C#
-- **Outros:**
-  postman, Git, Figma, Canva, Visual Studio, intellij IDEA
+  <img 
+    align= "left"
+    alt= "C++"
+    title= "C++"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+  />
+                 
+### ㅤ
+
+### Ouras Ferramentas:
+  
+  <img 
+    align= "left"
+    alt= "Postman"
+    title= "Postman"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Git"
+    title= "Git"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Figma"
+    title= "Figma"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+  />
+        
+  <img 
+    align= "left"
+    alt= "Canva"
+    title= "Canva"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+  />
+  
+  <img 
+    align= "left"
+    alt= "VS code"
+    title= "VS code"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+  
+  <img 
+    align= "left"
+    alt= "Visual Studio"
+    title= "Visual Studio"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+  />
+
+  <img 
+    align= "left"
+    alt= "Intellij IDEA"
+    title= "Intellij IDEA"
+    width= "30px"
+    style= "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+  />
+
+### ㅤ
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 - 📧 Email: [wolfdev.dev@gmail.com](mailto:wolfdev.dev@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/wolfdev](https://linkedin.com/in/josé-edimilson-8b5301275/)
