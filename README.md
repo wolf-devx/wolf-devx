@@ -255,8 +255,11 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
 ### 📈 Estatísticas do GitHub
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="right" alt="Top Langs" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-devx&theme=tokyonight&layout=compact&langs_count=9" />
+  <!-- Cartão de Estatísticas Gerais -->
+![Estatísticas do GitHub](github-readme-stats.vercel.app)
+
+<!-- Cartão das Principais Linguagens -->
+![Principais Linguagens](github-readme-stats.vercel.app)
 </p>
 
 <br><br>
@@ -269,7 +272,7 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/>](mailto:wolfdev.dev@gmail.com)
 &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/jos%C3%A9-edimilson-8b5301275/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/jose-edimilson/)
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>](https://www.instagram.com/wolfdev.devx/)
 
