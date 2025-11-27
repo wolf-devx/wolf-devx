@@ -254,13 +254,11 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
 
 ### 📈 Estatísticas do GitHub
 
-<p>
-  <!-- Cartão de Estatísticas Gerais -->
+<!-- Cartão de Estatísticas Gerais -->
 ![Estatísticas do GitHub](github-readme-stats.vercel.app)
 
 <!-- Cartão das Principais Linguagens -->
 ![Principais Linguagens](github-readme-stats.vercel.app)
-</p>
 
 <br><br>
 <br><br>
