@@ -255,10 +255,10 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
 ### 📈 Estatísticas do GitHub
 
 <!-- Cartão de Estatísticas Gerais -->
-![Estatísticas do GitHub](github-readme-stats.vercel.app)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=transparent)
 
 <!-- Cartão das Principais Linguagens -->
-![Principais Linguagens](github-readme-stats.vercel.app)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=transparent)
 
 <br><br>
 <br><br>
