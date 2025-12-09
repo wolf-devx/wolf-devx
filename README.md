@@ -252,17 +252,6 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
   
 <br><br>
 
-### 📈 Estatísticas do GitHub
-
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=wolf-devx&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" />
-<img align="right" alt="Top Langs" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-devx&theme=transparent" />
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
 ### 📬 Contato
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30"/>](mailto:wolfdev.dev@gmail.com)
