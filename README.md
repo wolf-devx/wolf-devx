@@ -253,7 +253,8 @@ Minha base em TI somada à experiência com gestão e negócios me permite desen
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
   />
- 
+<br><br>
+
 ## 📌 Foco atual
 
 - Desenvolvimento de APIs REST e integração de sistemas  
