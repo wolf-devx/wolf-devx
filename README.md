@@ -2,9 +2,13 @@
 
 `👨‍💻 Full Stack Developer | Web Apps | Indie Game Dev`
 
-Sou desenvolvedor full stack apaixonado por criar soluções digitais funcionais e escaláveis. Trabalho com web apps modernos e prototipagem de jogos indie.
+Desenvolvedor focado em construir aplicações escaláveis, integrações eficientes e soluções orientadas a produto.
 
-Atualmente aberto a **freelance projects**, **collaborations** e **full-time opportunities**.
+Atuo no **desenvolvimento de APIs, sistemas web modernos e interfaces performáticas**, aplicando boas práticas de arquitetura, organização de código e entrega contínua.
+
+Minha base em TI somada à experiência com gestão e negócios me permite desenvolver soluções que não apenas funcionam, mas geram impacto real.
+
+🚀 Aberto a freelance, colaborações e oportunidades full-time.
 
 ---
 
@@ -249,8 +253,15 @@ Atualmente aberto a **freelance projects**, **collaborations** e **full-time opp
     style= "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
   />
-  
-<br><br>
+ 
+## 📌 Foco atual
+
+- Desenvolvimento de APIs REST e integração de sistemas  
+- Aplicações web escaláveis  
+- Estruturação de projetos e boas práticas  
+- Projetos com foco em produto e experiência do usuário  
+
+---
 
 ### 📬 Contato
 
