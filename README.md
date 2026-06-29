@@ -1,4 +1,4 @@
-# 🐺 Olá, eu sou o José Edimilson (Wolf Dev) 🐺
+# 🐺 Olá, eu sou o José Edimilson (WolfDevX) 🐺
 
 `👨‍💻 Full Stack Developer | Web Apps | Indie Game Dev`
 
