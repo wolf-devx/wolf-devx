@@ -106,7 +106,7 @@ Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceu
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/trophy.svg" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=wolf-devx&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" />
 </div>
 
 ---
