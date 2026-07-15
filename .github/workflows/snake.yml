@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake and Trophies
 
 on:
   schedule:
@@ -14,6 +14,11 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Clone do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Geração da animação da cobrinha (Snake)
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
@@ -23,7 +28,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to output branch
+      # Step 3: Geração dos troféus (Trophies) direto na pasta dist
+      - name: Generate github profile trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4'
+          path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Envia os arquivos gerados (cobrinha e troféus) para a branch 'output'
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
