@@ -93,24 +93,6 @@ Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceu
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=wolf-devx&theme=tokyonight&border_radius=10&hide_border=true" width="49%" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=wolf-devx&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" />
-</div>
-
----
-
 ## Atividade de Contribuições
 
 <div align="center">
