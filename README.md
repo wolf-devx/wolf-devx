@@ -22,11 +22,11 @@ Sou o **José Edimilson**, conhecido profissionalmente como **Wolf DevX** 🐺 �
 Atuo conectando backend, frontend e serviços externos com foco em performance, organização e clareza de arquitetura. Minha base em TI, somada à experiência com operações e gestão financeira, me permite tomar decisões técnicas alinhadas ao negócio.
 
 ```yaml
-Situação atual:   Disponível para novas oportunidades
-Formação:         Eng. da Computação — Universidade Ceuma (7º período)
+Situação atual:   Disponível imediatamente para novas oportunidades
+Formação:         Eng. da Computação — Universidade Ceuma (8º período)
 Experiência:      4+ anos
 Projetos:         11+ entregues
-Disponibilidade:  Freelance, colaborações e vagas full-time (imediata)
+Buscando:         Estágio, Júnior, PJ ou Freelance — presencial, híbrido ou remoto
 ```
 
 ---
@@ -81,13 +81,13 @@ Disponibilidade:  Freelance, colaborações e vagas full-time (imediata)
 ## Trajetória
 
 ```text
-Mar 2026 – Abr 2026   Estagiário de Desenvolvimento — Oxygeni HUB
+Mar 2026 – Abr 2026   Estagiário de Desenvolvimento — Oxygeni HUB (concluído)
                       Full stack, APIs, IA aplicada, suporte técnico a alunos
 
-Mar 2025 – Fev 2026   Diretor Financeiro (CFO) — Seeds Tecnologia
+Mar 2025 – Fev 2026   Diretor Financeiro (CFO) — Seeds Tecnologia (concluído)
                       Gestão financeira, planejamento estratégico, precificação
 
-Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceuma
+Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceuma (cursando)
                       Arquitetura de software, sistemas distribuídos
 ```
 
@@ -98,14 +98,6 @@ Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceu
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wolf-devx&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -125,9 +117,9 @@ Construindo:
   - Projetos indie de games (Unity)
 
 Aberto a:
-  - Oportunidades freelance
-  - Consultoria técnica
-  - Vagas full-time
+  - Estágio ou vaga júnior
+  - Projetos PJ / freelance
+  - Presencial, híbrido ou remoto
 ```
 
 ---
