@@ -26,7 +26,7 @@ Situação atual:   Disponível imediatamente para novas oportunidades
 Formação:         Eng. da Computação — Universidade Ceuma (8º período)
 Experiência:      4+ anos
 Projetos:         11+ entregues
-Buscando:         Estágio, Júnior, PJ ou Freelance — presencial, híbrido ou remoto
+Disponibilidade:  Estágio, júnior, PJ, freelance ou vagas full-time
 ```
 
 ---
@@ -81,13 +81,13 @@ Buscando:         Estágio, Júnior, PJ ou Freelance — presencial, híbrido ou
 ## Trajetória
 
 ```text
-Mar 2026 – Abr 2026   Estagiário de Desenvolvimento — Oxygeni HUB (concluído)
+Mar 2026 – Abr 2026   Estagiário de Desenvolvimento — Oxygeni HUB (estágio concluído)
                       Full stack, APIs, IA aplicada, suporte técnico a alunos
 
-Mar 2025 – Fev 2026   Diretor Financeiro (CFO) — Seeds Tecnologia (concluído)
+Mar 2025 – Fev 2026   Diretor Financeiro (CFO) — Seeds Tecnologia
                       Gestão financeira, planejamento estratégico, precificação
 
-Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceuma (cursando)
+Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceuma
                       Arquitetura de software, sistemas distribuídos
 ```
 
@@ -98,6 +98,14 @@ Jan 2023 – Dez 2026   Bacharelado em Eng. da Computação — Universidade Ceu
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wolf-devx&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wolf-devx/wolf-devx/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -117,9 +125,10 @@ Construindo:
   - Projetos indie de games (Unity)
 
 Aberto a:
-  - Estágio ou vaga júnior
-  - Projetos PJ / freelance
-  - Presencial, híbrido ou remoto
+  - Estágio
+  - Vagas júnior
+  - Contratos PJ / freelance
+  - Vagas full-time
 ```
 
 ---
